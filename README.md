@@ -1,4 +1,4 @@
-# Aborização
+# Arborização
 
 Sistema de gestão de arborização desenvolvido para a disciplina de Projeto e Desenvolvimento de Sistemas da Universidade Federal de São Carlos (UFSCar) - Sorocaba.
 
